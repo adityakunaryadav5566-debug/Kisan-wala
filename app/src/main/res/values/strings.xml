@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Kisan Wala</string>
+    <string name="app_subtitle">स्मार्ट खेती सहायक • Smart Farming Assistant</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_doctor">पत्ती जांच</string>
+    <string name="nav_soil">मिट्टी</string>
+    <string name="nav_chat">AI चैट</string>
+    <string name="nav_advisors">सलाह</string>
+    <string name="nav_sensor">सेंसर</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="sample_ai_notice_title">सैंपल AI प्रीव्यू मोड (Sample Preview)</string>
+    <string name="sample_ai_notice_body">लाइव Gemini AI विश्लेषण के लिए Firebase सेटअप आवश्यक है। अभी यह स्क्रीन सैंपल कृषि सुझाव दिखा रही है।</string>
+    <string name="btn_scan_leaf">पत्ती जांच</string>
+    <string name="btn_scan_soil">मिट्टी जांच</string>
+    <string name="btn_ask_ai">AI से पूछें</string>
+    <string name="btn_water_advice">सिंचाई सलाह</string>
+    <string name="btn_fertilizer_advice">खाद सलाह</string>
+    <string name="btn_ble_sensor">मिट्टी सेंसर</string>
+    <string name="btn_camera">कैमरा से फोटो लें</string>
+    <string name="btn_gallery">गैलरी से चुनें</string>
+    <string name="btn_save_report">रिपोर्ट सेव करें</string>
+    <string name="cd_hero_banner">हरे खेतों का मुख्य बैनर</string>
+    <string name="cd_plant_preview">चयनित पौधे की पत्ती की फोटो</string>
+    <string name="cd_soil_preview">चयनित मिट्टी की फोटो</string>
+    <string name="cd_mic_button">आवाज़ में सवाल पूछें</string>
+    <string name="cd_speaker_button">जवाब सुनें</string>
+</resources>

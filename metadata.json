@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Wala",
+  "description": "Smart farming assistant with AI plant doctor, soil scanner, fertilizer & water advisor, Hindi/Bhojpuri voice chat, and BLE sensor monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
